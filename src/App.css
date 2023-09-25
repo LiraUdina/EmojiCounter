@@ -1,6 +1,22 @@
 .App {
   text-align: center;
 }
+.image1,
+.image2,
+.image3 {
+  height: 150px;
+  margin-right: 40px;
+  margin-left: 30px;
+}
+
+.chislo1,
+.chislo2,
+.chislo3 {
+  display: inline-block;
+  margin-top: 30px; 
+  margin-right: 120px;
+  margin-left: 105px;
+}
 
 .App-logo {
   height: 40vmin;
