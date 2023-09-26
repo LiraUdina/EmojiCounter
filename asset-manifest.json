@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/EmojiCounter/static/css/main.66666a50.css",
+    "main.js": "/EmojiCounter/static/js/main.466d0644.js",
+    "static/js/787.8d6d3120.chunk.js": "/EmojiCounter/static/js/787.8d6d3120.chunk.js",
+    "static/media/3.png": "/EmojiCounter/static/media/3.6131f330146e446d24b9.png",
+    "static/media/1.png": "/EmojiCounter/static/media/1.fa51c9d0938b51b74471.png",
+    "static/media/2.png": "/EmojiCounter/static/media/2.18ce42220c4c67522c86.png",
+    "index.html": "/EmojiCounter/index.html",
+    "main.66666a50.css.map": "/EmojiCounter/static/css/main.66666a50.css.map",
+    "main.466d0644.js.map": "/EmojiCounter/static/js/main.466d0644.js.map",
+    "787.8d6d3120.chunk.js.map": "/EmojiCounter/static/js/787.8d6d3120.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66666a50.css",
+    "static/js/main.466d0644.js"
+  ]
+}
